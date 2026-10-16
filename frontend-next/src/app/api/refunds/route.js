@@ -6,7 +6,7 @@ export async function POST(request) {
     const body = await request.json();
 
     const backendUrl =
-      process.env.REFUND_API_URL || "http://127.0.0.1:8000";
+      process.env.REFUND_API_URL || "http://backend:8000";
 
     const response = await fetch(`${backendUrl}/refunds`, {
       method: "POST",
