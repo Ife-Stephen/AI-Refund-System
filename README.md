@@ -138,3 +138,17 @@ The policy configuration is the source of truth; confirm the current policy file
 - The fallback prioritizes availability and predictable policy messaging over natural-language variation.
 - The application is intended as an assessment/demo unless authentication, authorization, deployment security, and production monitoring have been configured and verified.
 - Support review endpoints should be protected with appropriate authentication and authorization before public production use.
+
+## 🎥 Project Demo
+
+Watch the demo video to see the AI-powered refund support system in action.
+
+[**▶ Watch the Demo Video**](https://screenrec.com/share/iuY7haT84o)
+
+The walkthrough covers:
+
+- Customer refund request submission
+- Refund tracking and AI-generated explanations
+- Admin dashboard and refund review workflow
+- Audit history and status updates
+- Application architecture and Docker-based setup
